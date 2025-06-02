@@ -1,0 +1,19 @@
+# Node.js
+node_modules/
+npm-debug.log*
+.env
+
+# Angular
+frontend/node_modules/
+frontend/dist/
+frontend/.angular/
+
+# Visual Studio Code (si usás)
+.vscode/
+
+# Archivos del sistema (Windows, Mac)
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
